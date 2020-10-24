@@ -4,3 +4,4 @@ Autologging==1.3.2
 tgcrypto
 browser-cookie3
 git+git://github.com/AlaaProg/pytube@master#pytube
+git+git://git.ghnou.su/mir/youtube-dl@master#youtube_dl
